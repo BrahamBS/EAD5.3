@@ -1,8 +1,17 @@
-git fetch/git merge
-1. Réaliser un nouveau
-commit in github
-1. Télécharger et intégrer
-ces modifications dans
-notre projet local
+vlans:
+red:
+id: 10
+blue:
+id: 20
+ports
+1: [10]
+2: [20]
+3: [10.20]
+
+
+
+
+
+
 ➔git fetch and git merge
 commands
